@@ -1,6 +1,6 @@
 # Notes Taking App
 
-Test it Here : https://pasteapptest.netlify.app/
+Test it Here : https://paste-app-khaki-eight.vercel.app/
 
 ## Overview
 
